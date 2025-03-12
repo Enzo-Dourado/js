@@ -1,5 +1,5 @@
 
-lert('Olá, Mundo') // alerta
+alert('Olá, Mundo') // alerta
 
 confirm('Está gostando do Curso em Vídeo?') // confirmação
 
